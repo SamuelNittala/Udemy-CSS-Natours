@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelNittala/Udemy-CSS-Natours.git"
+  },
+  "keywords": [
+    "natour",
+    "starter"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelNittala/Udemy-CSS-Natours/issues"
+  },
+  "homepage": "https://github.com/SamuelNittala/Udemy-CSS-Natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
